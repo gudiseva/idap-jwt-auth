@@ -1,0 +1,20 @@
+{
+  "name": "idap-jwt-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.12",
+    "angular": "^1.6.8",
+    "angular-auth0": "^3.0.0",
+    "angular-jwt": "^0.1.9",
+    "auth0-js": "^9.0.2",
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.2"
+  }
+}
